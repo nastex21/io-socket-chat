@@ -74,5 +74,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
-
-.md
+*.json
+*.json
+*.json
